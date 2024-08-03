@@ -9,7 +9,7 @@ To set up the environment and install the necessary libraries, run:
 ```bash
 pip install tensorflow datasets matplotlib numpy
 ```
-Results:
-        Training Accuracy: ~98%
-        Validation Accuracy: ~89%
+Results:<br>
+        Training Accuracy: ~98%<br>
+        Validation Accuracy: ~89%<br>
         Test Accuracy: ~88.33%
